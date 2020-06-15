@@ -1,0 +1,42 @@
+body {
+  background: #F4F4F4;
+  margin: auto;
+  padding-left: 20px;
+  text-align: left; }
+
+h1 {
+  font-family: sans-serif;
+  color: rgba(50, 50, 50, 0.8); }
+
+p {
+  font-family: sans-serif;
+  color: grey; }
+
+.banner h1 {
+  color: blue;
+  font-family: sans-serif; }
+
+input {
+  width: 500px;
+  height: 30px;
+  border-style: solid;
+  border-width: thin;
+  border-radius: 3px;
+  border-color: grey; }
+
+#button {
+  width: 40px;
+  height: 35px;
+  background-color: #1976d2;
+  color: white;
+  border-color: #1976d2;
+  margin-left: none; }
+
+a {
+  color: grey;
+  font-family: sans-serif;
+  text-decoration: none; }
+  a:hover {
+    color: black; }
+
+/*# sourceMappingURL=questions.css.map */
